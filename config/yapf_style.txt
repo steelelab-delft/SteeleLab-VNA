@@ -1,0 +1,13 @@
+# Formatting style settings for yapf (run easily in Visual Studio Code)
+[style]
+spaces_around_power_operator=true
+continuation_align_style=fixed
+continuation_indent_width=4
+#split_before_first_argument=true
+split_before_closing_bracket=true
+dedent_closing_brackets=true
+align_closing_bracket_with_visual_indent=true
+split_before_dot=false
+coalesce_brackets=true
+column_limit=127
+blank_lines_around_top_level_definition=2

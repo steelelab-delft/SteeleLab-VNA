@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "2.*"
+pandas = "2.*"
+pythonping = "*"
+pyvisa = "1.*"
+pyvisa-py = "0.7.*"
+xarray = "*"
+psutil = "*"
+zeroconf = "*"
+ipykernel = "*"
+matplotlib = "3.*"
+netcdf4 = "*"
+
+[dev-packages]
+pytest = "8.*"
+yapf = "*"
+
+[requires]
+python_version = "3.10"
