@@ -22,5 +22,7 @@
 
 ## Style:
 - all modules must have a pylint score of at least 9.
+- all modules must have been formatted with yapf using the provided [config/yapf_style.txt](config/yapf_style.txt)
+  (use `yapf project tests -ir --style config/yapf_style.txt`)
 - all functions will be provided with type hints.
 - all functions except test functions must have docstrings describing their role.
