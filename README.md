@@ -1,3 +1,5 @@
+![Photo of the SLVNA setup used during developement](docs/hardware/images/photo_setup.jpg)
+
 # SteeleLab Vector Network Analyser
 
 ## Introduction
